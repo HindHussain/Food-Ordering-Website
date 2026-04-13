@@ -1,4 +1,4 @@
-# Food-Ordering-Web
+# Food-Ordering-Website
 # Description:
 This project is a simple and user-friendly website that allows customers to browse a restaurant menu, view food items with prices, and place orders online quickly and easily.
 # Problem:
