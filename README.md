@@ -19,3 +19,23 @@ Displays selected items and the total price.
 To allows users to enter their name and phone number to place the order.
 # 5- Confirmation Page:
 View to Shows a message confirming that the order has been placed successfully.
+
+# Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+# Future Improvements
+- Add payment gateway
+- Add user login system
+- Add real-time database (Firebase)
+- Improve search and filtering system
+
+# 👨‍💻 Group Members
+- Wejdan Saad Alzahrani (2240003203)  
+- Hind Hussein Shayan (2240002977)  
+- Hams Awad Almaliki (2240003976)  
+- Lama Fareed Almoaidy (2240007804)
+
+# GitHub Repository
+https://github.com/HindHussain/Food-Ordering-Website.git 
